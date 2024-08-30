@@ -37,7 +37,7 @@ gsub_file(
 # README
 ########################################
 markdown_file_content = <<~MARKDOWN
-  Rails app generated with VRoadSTUDIO minimal Rails Template (bootstrap / Simpleform)
+  Rails app generated with VRoadSTUDIO minimal Rails Template (bootstrap / Simpleform /FontAwosme / Lewagon stylesheets)
 MARKDOWN
 file "README.md", markdown_file_content, force: true
 
