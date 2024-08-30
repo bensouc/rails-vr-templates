@@ -118,7 +118,7 @@ after_bundle do
 
   # Rubocop
   ########################################
-  run "curl -L https://raw.githubusercontent.com//bensouc/rails-vr-templates/main/.rubocop.yml > .rubocop.yml"
+  run "curl -L https://raw.githubusercontent.com/bensouc/rails-vr-templates/main/.rubocop.yml > .rubocop.yml"
 
   # Git
   ########################################
